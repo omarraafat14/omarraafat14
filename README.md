@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **omarraafat14@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1IybOLKPIu_eFCXRSP2hcWSlasqNCJODo/view?usp=sharing">Resume</a>(https://drive.google.com/file/d/1IybOLKPIu_eFCXRSP2hcWSlasqNCJODo/view?usp=sharing)
+- 📄 Know about my experiences <a href=https://drive.google.com/file/d/1IybOLKPIu_eFCXRSP2hcWSlasqNCJODo/view?usp=sharing>Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
