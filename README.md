@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Raafat</h1>
+<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" style="max-width: 100%;">
 <h3 align="center">A passionate Computer Science Student who is interested in ML|DL|CV and Software Development from Egypt.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarraafat14&label=Profile%20views&color=0e75b6&style=flat" alt="omarraafat14" /> </p>
@@ -6,9 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarraafat14" alt="omarraafat14" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omaraafat14" target="blank"><img src="https://img.shields.io/twitter/follow/omaraafat14?logo=twitter&style=for-the-badge" alt="omaraafat14" /></a> </p>
-
-
-<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" style="max-width: 100%;">
 
 - 🔭 I’m currently working on **Smart surveillance System for Anomaly Actions Recognition.**
 
