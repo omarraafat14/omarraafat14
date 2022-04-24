@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/omaraafat14" target="blank"><img src="https://img.shields.io/twitter/follow/omaraafat14?logo=twitter&style=for-the-badge" alt="omaraafat14" /></a> </p>
 
-<img align="center" alt="GIF" src="https://octodex.github.com/images/codercat.jpg" width="500" height="320" style="max-width: 100%;">
-<img align="center" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" style="max-width: 100%;">
 
 - 🔭 I’m currently working on **Smart surveillance System for Anomaly Actions Recognition.**
 
