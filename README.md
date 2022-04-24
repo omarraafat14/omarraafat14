@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Raafat</h1>
-<img align="right" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" style="max-width: 100%;">
+<img align="middle" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" style="max-width: 100%;">
 <h3 align="center">A passionate Computer Science Student who is interested in ML|DL|CV and Software Development from Egypt.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarraafat14&label=Profile%20views&color=0e75b6&style=flat" alt="omarraafat14" /> </p>
