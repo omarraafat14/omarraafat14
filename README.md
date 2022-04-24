@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/omaraafat14" target="blank"><img src="https://img.shields.io/twitter/follow/omaraafat14?logo=twitter&style=for-the-badge" alt="omaraafat14" /></a> </p>
 
-
-<img src="https://octodex.github.com/images/codercat.jpg" width="250" height="250">
+<img align="center" alt="GIF" src="https://octodex.github.com/images/codercat.jpg" width="500" height="320" style="max-width: 100%;">
 
 - 🔭 I’m currently working on **Smart surveillance System for Anomaly Actions Recognition.**
 
