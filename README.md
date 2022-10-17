@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Raafat</h1>
 <img align="middle" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" style="max-width: 100%;">
-<h3 align="center">A passionate Computer Science Student who is interested in ML|DL|CV and Software Development from Egypt.</h3>
+<h3 align="center">A Fresh graduate Computer Engineer who is looking for an internship in Software Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarraafat14&label=Profile%20views&color=0e75b6&style=flat" alt="omarraafat14" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Smart surveillance System for Anomaly Actions Recognition.**
 
-- 🌱 I’m currently learning **Machine Learning, Deep learning, and Tensorflow.**
+- 🌱 I’m currently learning **Back-end Development using Django.**
 
 - 👯 I’m looking to collaborate on **An Internship or Entry level job.**
 
