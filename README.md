@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/omaraafat14" target="blank"><img src="https://img.shields.io/twitter/follow/omaraafat14?logo=twitter&style=for-the-badge" alt="omaraafat14" /></a> </p>
 
-- 🔭 I’m currently working on **Smart surveillance System for Anomaly Actions Recognition.**
+- 🔭 I’m currently working on **Building side-projects.**
 
 - 🌱 I’m currently learning **Back-end Development using Django.**
 
