@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Raafat</h1>
 <img align="middle" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" style="max-width: 100%;">
-<h3 align="center">A Fresh graduate Computer Engineer who is looking for an internship in Software Development.</h3>
+<h3 align="center">A Junior Backend developer using Python/Django.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarraafat14&label=Profile%20views&color=0e75b6&style=flat" alt="omarraafat14" /> </p>
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/omaraafat14" target="blank"><img src="https://img.shields.io/twitter/follow/omaraafat14?logo=twitter&style=for-the-badge" alt="omaraafat14" /></a> </p>
 
-- 🔭 I’m currently working on **Building side-projects.**
+- 🔭 I’m currently working on **Ecommerce project at a Softwarehouse**
 
 - 🌱 I’m currently learning **Back-end Development using Django.**
 
-- 👯 I’m looking to collaborate on **An Internship or Entry level job.**
+- 👯 I’m looking to collaborate on **Freelance / part-time job or Open Source project.**
 
 - 📫 How to reach me **omarraafat14@gmail.com**
 
