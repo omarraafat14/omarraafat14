@@ -15,9 +15,13 @@ I primarily work with **Python, Django, Django REST Framework, FastAPI, and Post
 ### Core Technologies
 
 **Backend:** Python · Django · Django REST Framework · FastAPI · Celery
+
 **Databases:** PostgreSQL · PostGIS · MySQL · Redis
+
 **APIs:** REST · GraphQL · WebSockets · JWT · OAuth2
+
 **Infrastructure:** Docker · AWS · Nginx · GitLab CI/CD
+
 **Development:** Git · Pytest · Profiling · Debugging
 
 ### Featured Projects
